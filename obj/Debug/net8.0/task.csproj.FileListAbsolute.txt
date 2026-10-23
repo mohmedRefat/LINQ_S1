@@ -1,0 +1,15 @@
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/bin/Debug/net8.0/task
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/bin/Debug/net8.0/task.deps.json
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/bin/Debug/net8.0/task.runtimeconfig.json
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/bin/Debug/net8.0/task.dll
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/bin/Debug/net8.0/task.pdb
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.GeneratedMSBuildEditorConfig.editorconfig
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.AssemblyInfoInputs.cache
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.AssemblyInfo.cs
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.csproj.CoreCompileInputs.cache
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.sourcelink.json
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.dll
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/refint/task.dll
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.pdb
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/task.genruntimeconfig.cache
+/media/mo/01DC000201FBB540/projects/tEST/task/LINQ_S1/obj/Debug/net8.0/ref/task.dll
